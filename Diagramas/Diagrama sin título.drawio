@@ -284,6 +284,12 @@
         <mxCell id="xgLljYMJ0hKGz17Ee537-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="-250" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xgLljYMJ0hKGz17Ee537-2" value="Recaudar" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-380" width="200" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="xgLljYMJ0hKGz17Ee537-3" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-390" width="200" height="340" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
